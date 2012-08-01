@@ -1,4 +1,4 @@
-6fc2a7b31541029be83710f0eb034b57 *DESCRIPTION
+5c9bbffca7a6cad16a4cbd583479948b *DESCRIPTION
 9b40e7c1c58a197363a52747372b50c6 *NAMESPACE
 02bf831dcabe187f0a09544cd4208512 *R/GearmanClient.R
 ccdc1f9164d0950317242de82f57b12d *configure
@@ -100,7 +100,7 @@ a78be523fef2733924f2c16d07caf633 *src/libgearman/universal.hpp
 38ae44549089e0cdfd3602da5d7906e4 *src/osx_config.h.11.0
 38ae44549089e0cdfd3602da5d7906e4 *src/osx_config.h.11.4
 38ae44549089e0cdfd3602da5d7906e4 *src/osx_config.h.12.0
-a11866e7a4bdab0bf44728082a967293 *src/osx_config.h.9.8
+efeb2826c4e56e8a7a95dafc61675670 *src/osx_config.h.9.8
 3d6c7d98f84ac76b3b6469eb2de04126 *src/packet.cc
 6f42d4845fa03162081cce51da586ed6 *src/parse.cc
 686d404e78e0f6496ceaa31ca940b811 *src/partition.cc
