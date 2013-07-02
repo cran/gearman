@@ -1,9 +1,10 @@
-5c9bbffca7a6cad16a4cbd583479948b *DESCRIPTION
+094bb2070b73c8db123df25765664d9e *DESCRIPTION
 9b40e7c1c58a197363a52747372b50c6 *NAMESPACE
 02bf831dcabe187f0a09544cd4208512 *R/GearmanClient.R
-ccdc1f9164d0950317242de82f57b12d *configure
+ae7cfdfa5eb72c4158f652fcb94689e2 *configure
 bf69575da02639f4070e105cdd2e78c1 *inst/NOTICE
 acc5a72003151b58c6d0b4739bea9875 *man/GearmanClient.Rd
+fe205ac1788a26d109c0f0ca59129650 *src/Makevars
 fe205ac1788a26d109c0f0ca59129650 *src/Makevars.osx
 bbb5c74451270b3b05711c7b8e38b487 *src/Makevars.unix
 29493687f7095ccfd48f9c6df83e2177 *src/actions.cc
@@ -96,11 +97,8 @@ a78be523fef2733924f2c16d07caf633 *src/libgearman/universal.hpp
 8784ceef3932b8d15fbbd85f91b2c835 *src/libgearman/vector.hpp
 2535f4ae69fb20ae0a22cd7a04fc1a1b *src/log.cc
 894b7e2aed4009d9044c2d50ba4b77c5 *src/make.cc
-38ae44549089e0cdfd3602da5d7906e4 *src/osx_config.h.10.8
-38ae44549089e0cdfd3602da5d7906e4 *src/osx_config.h.11.0
-38ae44549089e0cdfd3602da5d7906e4 *src/osx_config.h.11.4
-38ae44549089e0cdfd3602da5d7906e4 *src/osx_config.h.12.0
-efeb2826c4e56e8a7a95dafc61675670 *src/osx_config.h.9.8
+289c279a006bb8b7b1ff7751afae74a6 *src/osx_config.h
+efeb2826c4e56e8a7a95dafc61675670 *src/osx_config.h.legacy
 3d6c7d98f84ac76b3b6469eb2de04126 *src/packet.cc
 6f42d4845fa03162081cce51da586ed6 *src/parse.cc
 686d404e78e0f6496ceaa31ca940b811 *src/partition.cc
